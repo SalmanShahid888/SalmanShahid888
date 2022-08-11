@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/DWcfusK34AoHgebBCo/giphy.gif">
+
 - 👋 Hi, I’m @SalmanShahid
 - 👀 I’m interested in Front End Web Development, Back End Web Development and Web Applications.
 - 🌱 I’m currently learning (as of now) Backend Web i.e Client and server side Requests.
