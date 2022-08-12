@@ -1,4 +1,4 @@
-# Welcome Tarnished One! ![Untitled design (2)](https://user-images.githubusercontent.com/71010239/184366961-3d95cb7c-2041-49b9-86d4-2c9865fee9a4.gif)
+# Welcome fellow Tarnished! ![Untitled design (2)](https://user-images.githubusercontent.com/71010239/184366961-3d95cb7c-2041-49b9-86d4-2c9865fee9a4.gif)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/71010239/184362778-2e140a36-c005-4c3f-a605-e640682eb9e8.gif"></p>
 
