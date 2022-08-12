@@ -6,21 +6,23 @@
 - ⭐️ Hey! I’m Salman.
 - 📫 Doing bachelor's degree in Software Engineering.
 - 🌱 Currently learning Backend Web Development.
-- 💞️ I’m looking to collaborate on anything related to Web/Mobile development.
-- 📫 You can reach me through my email [salmanshahid8896@gmail.com](mailto:salmanshahid8896@gmail.com) or socials down below.
-- 🔥  I am a die hard fan for soul's like games.
+- 💞️ Collaborate with me on anything related to Web/Mobile development.
+- 📫 You can reach me through my Email [SalmanShahid8896@gmail.com](mailto:salmanshahid8896@gmail.com) or socials down below.
+- ❤️ Love to build Gaming setups.
+- ⚔️ Like to play Computer Games.
+- 🔥 Fan of soul's like games.
 
+<p>&nbsp;</p>
 
-<h2 align="center">Let's Collaborate <img src="https://user-images.githubusercontent.com/71010239/184364994-da5da83e-5f9d-4591-8854-5910ceb086d2.png" width="40px" margin="10px 0px 0px 0px">
-</h2>
+<h2 align="center"> Let's Collaborate <img src="https://user-images.githubusercontent.com/71010239/184364994-da5da83e-5f9d-4591-8854-5910ceb086d2.png" width="40px"></h2>
 
 <div align="center">
+<p>&nbsp;</p>
 <a href="https://www.linkedin.com/in/salman-shahid-25aba71ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/izzsalman/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/XxYukimuraxX" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/jjust_sal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%1D9BF0.svg?&style=flat-square&logo=twitter&logoColor=white&labelColor=1D9BF0&color=1D9BF0" alt="Spotify"></a>
 </div>
-
 
 <br />
 
