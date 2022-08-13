@@ -10,7 +10,7 @@
 - ✉️ You can reach me through my Email [SalmanShahid8896@gmail.com](mailto:salmanshahid8896@gmail.com) or socials down below.
 - ❣️ Love to build Gaming setups.
 - ⚔️ Like to play Computer Games.
-- 🔥 Fan of soul's like games.
+- 🔥 Fan of Soul's like games.
 
 <p>&nbsp;</p>
 
